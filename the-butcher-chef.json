@@ -1,0 +1,277 @@
+{
+    "search_metadata": {
+        "id": "62f940a7382427e161fb7153",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/efcad64ca1ece5af/62f940a7382427e161fb7153.json",
+        "created_at": "2022-08-14 18:36:24 UTC",
+        "processed_at": "2022-08-14 18:36:24 UTC",
+        "google_maps_reviews_url": "https://www.google.com/async/reviewDialog?hl=en&async=feature_id:0x89d4cbd4c3e1dc4b:0xd1240e434a0e8ac4,sort_by:,next_page_token:,associated_topic:,_fmt:pc",
+        "raw_html_file": "https://serpapi.com/searches/efcad64ca1ece5af/62f940a7382427e161fb7153.html",
+        "total_time_taken": 0.29
+    },
+    "search_parameters": {
+        "engine": "google_maps_reviews",
+        "data_id": "0x89d4cbd4c3e1dc4b:0xd1240e434a0e8ac4",
+        "hl": "en"
+    },
+    "place_info": {
+        "title": "The Butcher Chef",
+        "address": "8 Harbour St, Toronto, ON, Canada",
+        "rating": 4.7,
+        "reviews": 169
+    },
+    "topics": [
+        {
+            "keyword": "tasting menu",
+            "mentions": 13,
+            "id": "/m/0c6j1t"
+        },
+        {
+            "keyword": "patio",
+            "mentions": 13,
+            "id": "/m/02p8qh"
+        },
+        {
+            "keyword": "dining",
+            "mentions": 12,
+            "id": "/m/03d2wd"
+        },
+        {
+            "keyword": "cocktails",
+            "mentions": 11,
+            "id": "/m/024g6"
+        },
+        {
+            "keyword": "sides",
+            "mentions": 9,
+            "id": "/m/07l8p5"
+        },
+        {
+            "keyword": "tartare",
+            "mentions": 8,
+            "id": "/m/03f5_w"
+        },
+        {
+            "keyword": "cheesecake",
+            "mentions": 8,
+            "id": "/m/02mg4z"
+        },
+        {
+            "keyword": "ceviche",
+            "mentions": 7,
+            "id": "/m/0j8k6"
+        },
+        {
+            "keyword": "intimate",
+            "mentions": 7,
+            "id": "/m/0426fs"
+        },
+        {
+            "keyword": "wagyu",
+            "mentions": 6,
+            "id": "/m/03x2vh"
+        }
+    ],
+    "reviews": [
+        {
+            "user": {
+                "name": "Raymond El Khoury",
+                "link": "https://www.google.com/maps/contrib/112803039591993667979?hl=en-US&sa=X&ved=2ahUKEwj0uNHW_Mb5AhUMlGoFHfWdCbAQvvQBegQIARBB",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/AFdZucquZJQ-qq8FimQFTOpGTlIiMtgaHNGie5EyfKL8Yb4=s40-c-c0x00000000-cc-rp-mo-ba3-br100",
+                "local_guide": true,
+                "reviews": 74,
+                "photos": 56
+            },
+            "rating": 5.0,
+            "date": "a month ago",
+            "snippet": "I don\u2019t know where to begin. The staff is extremely friendly and professional. Very knowledgeable and helpful. We are not very accustomed to this kind of restaurant, and they helped us pick items and the right wine. Steaks were perfectly cooked. Sides were phenomenal. The cheesecake is to die for. Highly recommend for a special night out.",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipNC740w-wTuvFRIWmN8_YqV6yHiiWITlHh3nWLE=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNLf50XRWfGrWNbDvQgORhb0s0jNVXFjVNa2dyL=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNNzi_0JlWEyFcZ4gQsvSnVAbuY1JfMplvawPpI=w100-h100-p-n-k-no"
+            ]
+        },
+        {
+            "user": {
+                "name": "Sunil Kadikar",
+                "link": "https://www.google.com/maps/contrib/106778882625636643812?hl=en-US&sa=X&ved=2ahUKEwj0uNHW_Mb5AhUMlGoFHfWdCbAQvvQBegQIARBb",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/AFdZucqa6VC1LfhXMbzcVRHjk9xvzwfBy0HrErAH6I3PZw=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+                "local_guide": true,
+                "reviews": 135,
+                "photos": 228
+            },
+            "rating": 5.0,
+            "date": "5 days ago",
+            "snippet": "Trendy and chic, incredibly decadent and lavish. Great place to celebrate a special occasion. Of course amazing steaks as you\u2019d expect. The ceviche was amazing, and the cheesecake dessert was a work of art! Amazing cocktail options and incredible variety of bourbon. Lots of rare options that you can\u2019t find elsewhere.",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipPC8WQh5q_NB8ngT923Tg9lXxhd4CHnYYR2e2YB=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipO4H0ZLIJF6UwRmaPPpCem9MoSZf_esdUK9daO0=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMGhKjTf8lbCvVnEmpCgreI34o4yCVddLU1zyly=w100-h100-p-n-k-no"
+            ]
+        },
+        {
+            "user": {
+                "name": "Susie S",
+                "link": "https://www.google.com/maps/contrib/103426563222914616305?hl=en-US&sa=X&ved=2ahUKEwj0uNHW_Mb5AhUMlGoFHfWdCbAQvvQBegQIARB3",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/AFdZucrnn8OE4VsHanTokCc-RyYes7tuEvTVgEpuzUwh3Q=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+                "local_guide": true,
+                "reviews": 88,
+                "photos": 194
+            },
+            "rating": 5.0,
+            "date": "6 months ago",
+            "snippet": "Fantastic Steak and Seafood Restaurant. Service was impeccable, food was outstanding. Drinks and wine were top notch. One of the best restaurants in Toronto. It's a hidden gem in the city. Minutes away from Scotiabank Arena at Bay and Harbour Streets. Great for business meetings, date nights or out with friends. They have an outdoor patio too and a private diningroom. Make reservations ahead of time.",
+            "likes": 3,
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMtBNU4DcPSbuR6AIhx2ldZeFgj5vKGzi-ZVQSc=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPUVLXqfqSMmGygmmZq03fxr1_Wk_stkrsMW_ti=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPCAXKROPa8rxPc3ugb9DDQuoh0xxno3GPV_EbS=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipM_ydbB8reuhNXPBGSmyhr6vaV46mzJapycIl0B=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNP5jlwOEu1eG-U56ptRoPD88BLb4Di3aEOtcMo=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNgtJEpqtFLNbImPGlPb6tqGV2s_CxO-ZpJMdjX=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNFXNz243rtDdyCeMrm8egTuhjMDPSEFH4v9wKP=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOkJ83OJXeb3QjM66lrneIDbSP7ffXbUxNLL73D=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPOUtjdrG7zvCUJ6eeJT7M2W0Yd2XD7GIwDm5mW=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNe-oxI78m-I1IH9r-dYMnDWQgjmULnzqXuRtHw=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMNz27l343bRv9Dg3Yn2r0bBFpc4W1uIAMYre3A=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNF6JpJr64rqvTz_1PXSwXiFWMwOErb-VkFDxJL=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPVqxOlP7jkq-SHbxl2sfVN_PS32OwW6ktXxDVU=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMNDAoPXpwT_nxIVxqB9qV6j0Uk5Q-EGxXydbwL=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipM6PXKEYXsK_6XyZgcoK0rppMHlekhE4ygI7Gwn=w100-h100-p-n-k-no"
+            ]
+        },
+        {
+            "user": {
+                "name": "Lyndsay Hone",
+                "link": "https://www.google.com/maps/contrib/101830184105042728461?hl=en-US&sa=X&ved=2ahUKEwj0uNHW_Mb5AhUMlGoFHfWdCbAQvvQBegUIARCdAQ",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/AFdZucp0gk4KIx25TvUeZBaYZX_cxnaApSmopTMRR7ys290=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+                "local_guide": true,
+                "reviews": 78,
+                "photos": 189
+            },
+            "rating": 5.0,
+            "date": "4 months ago",
+            "snippet": "The best steakhouse in the city. The location of this restaurant is misleading ... we had passed over it in the past simply bc of where it is in the bottom of an apartment building 'away' from the heart of things, but thankful we finally made a point of going! The wine list is extensive and has some excellent options, whatever your pallette. Steaks were perfectly cooked (of course) and again had lots of choice. Sides perfectly balanced - highly recommend the brussel sprouts. Tableside banana foster and a delightful cheesecake was the perfect way to end the meal. Service was impeccable, exactly what one would expect of a 5-star restaurant. Atmosphere is high end and private. Lovely decor, beautiful blues and golds, makes for an overall perfect experience.",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipOl0l2zm7ebyrZ0Gb6tn-CRazQdNQRgron775oO=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNPy4ihgiC2UffUdnaT0pVSRGNOuPWlj01pROxz=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNtKMiHj4ay7ywqaE314VPsi2Ux1FdA3UNlpOje=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPxiyvii2OKwN43XCEwF8YjnwtMnt5CHAQgGKiq=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOXCpMSyvm-HpwHkAvZiaXutZBd9K1MolLLkPc3=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNxJBHw50XfwuAjdAf1gwJb4xV7s6OtJBPxZouA=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipP9ZmvNGRIIz1JHuBLE-L2QxM22TNLcaHrXFtYy=w100-h100-p-n-k-no"
+            ]
+        },
+        {
+            "user": {
+                "name": "W",
+                "link": "https://www.google.com/maps/contrib/101120018996224692521?hl=en-US&sa=X&ved=2ahUKEwj0uNHW_Mb5AhUMlGoFHfWdCbAQvvQBegUIARC7AQ",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/AFdZucpIJU8aPPtTHWdC6iD5MrVgbUDpQllV9snv-tOKQQ=s40-c-c0x00000000-cc-rp-mo-ba4-br100",
+                "local_guide": true,
+                "reviews": 93,
+                "photos": 69
+            },
+            "rating": 5.0,
+            "date": "5 months ago",
+            "snippet": "Excellent Experience! Will absolutely visit again. The service was A++ server was attentive and very thoughtful. The Butcher Chef offers the best selection of steak in my opinion. We started with the Seafood Platter. The quality of seafood on this platter was extremely fresh, the oysters still have me thinking about it today! Then we went with a 16oz Striploin AA&CO Queensland with 4oz of Wagyu from Miyazaki, Japan as well as 4oz of Kobe with everything being cooked to med-rare perfection. They offer the 4oz option for those wanting to experience a bit of everything, which is a fantastic idea. The sides offered were amazing as well. Definitely worth visiting. I love everything about this restaurant.",
+            "likes": 1,
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipOHWUVBKh1KCU-0nD1xDmZcxlXbevx3wKzFoVUc=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMMFk6zj5Op0U79w09nSP6q4GMlMPW8IuCke6Yi=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipO9w5K_mOR27YI82EY98yz5z4YtnfNDxOe7ti0P=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNpo-LnEo1Qz4G-U1ZqoEVkSxijVHs-yGO-Yeje=w100-h100-p-n-k-no"
+            ]
+        },
+        {
+            "user": {
+                "name": "Ceyla E",
+                "link": "https://www.google.com/maps/contrib/117514504475905756700?hl=en-US&sa=X&ved=2ahUKEwj0uNHW_Mb5AhUMlGoFHfWdCbAQvvQBegUIARDXAQ",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/AFdZucoAd7uNJXPLdOtirg7ibxNhCHGAedSQBEcw8FRHqw=s40-c-c0x00000000-cc-rp-mo-br100",
+                "reviews": 8,
+                "photos": 5
+            },
+            "rating": 5.0,
+            "date": "4 months ago",
+            "snippet": "Me and my partner came here for our 1 year and had an amazing experience, all the staff was lovely and the food was mind blowing. The pasta was the best I ever had. Me and my S.O. will return for another anniversary",
+            "likes": 1,
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipNnkwR4z5WN8FOvC7gtsJazyEkJJjWAMPwByo39=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipO82yFh0ykBwA2Atu-sSK9v9Lw2eMTuF5ZH1koU=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNZoSrpR9o8vN9PAbpttupB9pMTFchZc3bHg7t6=w100-h100-p-n-k-no"
+            ]
+        },
+        {
+            "user": {
+                "name": "Ray Tran",
+                "link": "https://www.google.com/maps/contrib/102265184170797727040?hl=en-US&sa=X&ved=2ahUKEwj0uNHW_Mb5AhUMlGoFHfWdCbAQvvQBegUIARDxAQ",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/AFdZucpPSdbk0xOxY39YArY38geIlhoHC8Gs4lDy2PaFuZI=s40-c-c0x00000000-cc-rp-mo-ba5-br100",
+                "local_guide": true,
+                "reviews": 145,
+                "photos": 556
+            },
+            "rating": 5.0,
+            "date": "5 months ago",
+            "snippet": "Let me start with the amazing service from a great group of staff. Scallop dumpling with Wagyu strip was perfect start to the meal - on the house Tuna and A5 Wagyu tartare was fresh and buttery with the beef Chorizo and clam app had so many depth of flavors and textures - on the house Wagyu ravioli with a super generous of black truffle - melt in your mouth ravioli but the sauce was so rich and flavorful Quebec Duck dry aged for 3 weeks - honestly best duck confit I ever had I will be back again to try everything else",
+            "likes": 2,
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipOQS6iJ5of9JbV8zw9GGSUbvmOh-x3efOlVg_DX=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNNcKo4D91JmcYlaVEpjMMytK3qK4K90pUT2CLY=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPp2KATC54xyGgUQWaeTGQUjpm-BYtklNDj_rSX=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipM1b6y0X80gR4_m0xAr4L1Ac3EYJKkmFCZQg4Uq=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipM9PuqEjz6ygjdcJhE01dw9XoWUIaUOqaCZ64Or=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNoxlEhoKb9_k5N4WvwYqmaNFoXLahcwn0SkBdP=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipM3XIkPgEGqHRO2dtW_qiTiRrLoFDmcgYPi5D33=w100-h100-p-n-k-no"
+            ]
+        },
+        {
+            "user": {
+                "name": "Caroline Glavind",
+                "link": "https://www.google.com/maps/contrib/106530369031467181916?hl=en-US&sa=X&ved=2ahUKEwj0uNHW_Mb5AhUMlGoFHfWdCbAQvvQBegUIARCPAg",
+                "thumbnail": "https://lh3.googleusercontent.com/a/AItbvmn-327VKJhDHhDSZdMg4XpAHugdtJWiGfboc9xc=s40-c-c0x00000000-cc-rp-mo-br100",
+                "reviews": 12,
+                "photos": 6
+            },
+            "rating": 5.0,
+            "date": "a year ago",
+            "snippet": "All I can say is this: WOW! I had high expectations for The Butcher Chef after reading reviews and seeing the prices. The food was absolutely outstanding and the venue is intimate. Having experienced some other popular steakhouses of similar caliber in the city (Harbour 60, Blueblood), I can honestly say this was the best steakhouse meal I have ever had in Toronto. For a special occasion, the prices are absolutely worth it. To start, my partner and I ordered the bread, wild shrimp ceviche and caesar salad. The bread was brioche served with some kind of zucchini mixture on top and freshly shaved truffle. I really appreciated that they elevated the experience of having bread with a meal. It was really like it\u2019s own special appetizer. The Caesar salad was very good, although it was the wild shrimp ceviche that really blew me away. The flavour was complex and evolved as it was in your mouth. Hard to explain\u2026 but truly outstanding! For our main, we ordered the wild mushrooms, pastrami carrots, 8oz. PEI Tenderloin and Ontario 16 oz. Bone-in Striploin. My partner and I were blown away by the tenderness and flavour of the steaks. My PEI tenderloin had a wonderful salinity and a perfectly executed crust. The dinner for 2 was about $500. Although pricey, it was worth it. Cannot recommend this place enough! So impressed. It is obviously a lot of care has gone into the curation of the experience for the guest. We will definitely be back.",
+            "likes": 5,
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipOqbN6zgJzZsuovPK72noiMbbMjWIe1cIeevQN6=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNsd8i82JTDYAVm2ar5tBGwmCGUS1PVgqz5Zjao=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipM8PAC49AmZ4VtVdgbGFguljBhyxzB1atiAVFKZ=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNG3D-pIOchmydaUz_JHwmXClnU0WAJWuYomCJe=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNT_hiixfYTHpsu1y0SRVtZHQwMr4jrkGylOzyC=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNAxdSvYE0c2s6C8XZ4pJk7FkRos90E-CLl6NvN=w100-h100-p-n-k-no"
+            ]
+        },
+        {
+            "user": {
+                "name": "Gayan Pathirana",
+                "link": "https://www.google.com/maps/contrib/112078640880364839691?hl=en-US&sa=X&ved=2ahUKEwj0uNHW_Mb5AhUMlGoFHfWdCbAQvvQBegUIARCsAg",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/AFdZucpxDvFBX6sSWAblhjwuACykwBVayifjgq5beqC57ao=s40-c-c0x00000000-cc-rp-mo-ba6-br100",
+                "local_guide": true,
+                "reviews": 280,
+                "photos": 7751
+            },
+            "rating": 5.0,
+            "date": "2 weeks ago",
+            "snippet": "One fine night, we decided to give this place a try because I basically live above this place. No reservation, just walked in. I got the feeling it was a bit fancy, but when the hostess said \u201cdo you want to see a menu first, or are you comfortable\u201d, I was sure it was fancy and a little bit concerned about my wallet. Nonetheless, the t-bone steak was fantastic, and the cheese cake was memorable. The service was really top-notch. The sommelier was on hand to help with the wine selection, and our server knew everything about the beef they were serving. Turns out they have a pretty thick handbook (with pictures) of everything about the beef they serve. They are serious about their meat. The cheesecake was no everyday cheesecake, either. This cheesecake had extra flair. It comes to your table with smoking cold nitrogen. For a walk-in, it was a really amazing experience and totally worth it."
+        },
+        {
+            "user": {
+                "name": "Dennis S",
+                "link": "https://www.google.com/maps/contrib/106447691269597860099?hl=en-US&sa=X&ved=2ahUKEwj0uNHW_Mb5AhUMlGoFHfWdCbAQvvQBegUIARDEAg",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/AFdZucoVpfgB5SBo7xAEkaOeOJdlGv-PdWxARTxIqMhhDQ=s40-c-c0x00000000-cc-rp-mo-br100",
+                "reviews": 13
+            },
+            "rating": 4.0,
+            "date": "3 months ago",
+            "snippet": "We had a wonderful dinner and our server was extremely pleasant. For appetizers, we had the scallops. This was our favorite dish of the night. For mains, we ordered a Wagyu Steak along with fries. It was delicious and cooked exactly how we like it! For dessert, we had Cheesecake. Have had better cheesecake. Overall, the food by itself would be 3 stars for the price and the additional 1 star is because of how pleasant and friendly our server was.",
+            "likes": 2
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?data_id=0x89d4cbd4c3e1dc4b%3A0xd1240e434a0e8ac4&engine=google_maps_reviews&hl=en&next_page_token=CAESBkVnSUlDZw%3D%3D",
+        "next_page_token": "CAESBkVnSUlDZw=="
+    }
+}
