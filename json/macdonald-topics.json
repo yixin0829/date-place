@@ -1,0 +1,52 @@
+[
+    {
+        "keyword": "clean",
+        "mentions": 45,
+        "id": "/g/11c5rmbjqg"
+    },
+    {
+        "keyword": "homeless",
+        "mentions": 19,
+        "id": "/m/03l7f"
+    },
+    {
+        "keyword": "morning",
+        "mentions": 19,
+        "id": "/m/02_ktj"
+    },
+    {
+        "keyword": "big mac",
+        "mentions": 13,
+        "id": "/m/01rq37"
+    },
+    {
+        "keyword": "mccafe",
+        "mentions": 11,
+        "id": "/m/03nmzw1"
+    },
+    {
+        "keyword": "gloves",
+        "mentions": 11,
+        "id": "/m/0174n1"
+    },
+    {
+        "keyword": "employee",
+        "mentions": 9,
+        "id": "/m/01tqrk"
+    },
+    {
+        "keyword": "uber eats",
+        "mentions": 7,
+        "id": "/g/11ckq_1t0s"
+    },
+    {
+        "keyword": "mcdouble",
+        "mentions": 5,
+        "id": "/g/11h_4m9_lz"
+    },
+    {
+        "keyword": "crowd",
+        "mentions": 5,
+        "id": "/m/03qtwd"
+    }
+]
