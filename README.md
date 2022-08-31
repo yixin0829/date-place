@@ -11,14 +11,17 @@ A product (currently thinking of an app or a website) that does not have cuisine
 ## Workflow
 - [x] Tested Google Place API using Python Client
 - [x] Build out basic client to fetch 10 reviews
-- [ ] Implement client to fetch all reviews for butcher chef and store into a json for testing kw model
-    - Google Place API only return up to 5 reviews. Decided to leverage 3-rd party API called [Serpapi](https://serpapi.com/)
+- [x] Implement client to fetch all reviews and ratings for butcher chef and another restaurant store into two json for testing kw model and to perform t-test
+    - Google Place API only return up to 5 reviews. Decided to leverage 3-rd party API called [SerpApi](https://serpapi.com/)
     - [Use SerpApi pagination token to get all the reviews](https://www.youtube.com/watch?v=HQAWQPNjw_k)
-- [ ] Implement kw extraction class method using mock data
+- [x] Implement kw extraction class method using mock data
+    - Diversification using [Maximal Marginal Relevance algorithm](https://arxiv.org/pdf/1801.04470.pdf) (maximizing the similarity with review embeddings while ensuring different from existing extracted keywords)
 - [ ] Implement REST API endpoint and testing on Mock data
+	- [ ] [Deploy using Docker](https://towardsdatascience.com/deploy-apis-with-python-and-docker-4ec5e7986224), [deploy in AWS](https://medium.com/@contact.blessin/deploying-a-gpt-3-flask-application-on-aws-codepipeline-and-elastic-beanstalk-681cd2ece897)
 	- [ ] quite count, loud count, review to rating ratio
+- [ ] Format and document BE code and classes
 - [ ] Start FE dev with mock json data
-- [ ] Implement GCP cloud storage act as cache
+- [ ] Implement cloud storage act as cache
 
 ## General Resources
 - [Youtube - Geocoding API and Place API + code](https://www.youtube.com/watch?v=ckPEY2KppHc)
